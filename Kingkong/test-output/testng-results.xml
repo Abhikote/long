@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[1]]>
+    </line>
+    <line>
+      <![CDATA[2]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="216" started-at="2021-12-11T03:26:32Z" finished-at="2021-12-11T03:26:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="216" started-at="2021-12-11T03:26:32Z" finished-at="2021-12-11T03:26:32Z">
+      <class name="Robert.demo1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:Robert.demo1@3a82f6ef]" name="test1" duration-ms="36" started-at="2021-12-11T03:26:32Z" finished-at="2021-12-11T03:26:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Robert.demo1@3a82f6ef]" name="test2" duration-ms="16" started-at="2021-12-11T03:26:32Z" finished-at="2021-12-11T03:26:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- Robert.demo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
